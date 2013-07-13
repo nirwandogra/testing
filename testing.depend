@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1373692912 source:f:\oop\testing\main.cpp
+	<highgui.h>
+	<iostream>
+	<opencv2\opencv.hpp>
+	"opencv2/highgui/highgui.hpp"
+	<iostream>
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<iostream>
+	<map>
+
